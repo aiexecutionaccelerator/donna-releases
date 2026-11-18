@@ -20,19 +20,19 @@
   ],
   "openai": [
     {
+      "id": "gpt-6.2-sol",
+      "label": "Sol"
+    },
+    {
+      "id": "gpt-6.2-astra",
+      "label": "Astra"
+    },
+    {
       "id": "gpt-6.1-terra",
       "label": "Terra"
     },
     {
       "id": "gpt-6.1-sol",
-      "label": "Sol"
-    },
-    {
-      "id": "gpt-6-luna",
-      "label": "Luna"
-    },
-    {
-      "id": "gpt-6-sol",
       "label": "Sol"
     },
     {
